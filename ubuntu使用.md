@@ -68,15 +68,15 @@ grep 的全称：Global search Regular Expression and Print out the line
 
 
 
+#### ubuntu装机
+
+##### ubuntu更换主题
 
 
 
-
-
-
-
-
-
+1. 进入unity tweak tool工具
+2. 找到theme
+3. 选择自己喜欢的主题和图标类型
 
 
 
