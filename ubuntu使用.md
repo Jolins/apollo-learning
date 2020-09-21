@@ -80,6 +80,16 @@ grep 的全称：Global search Regular Expression and Print out the line
 
 
 
+#### git新建仓库
+
+##### git使用http下载下代码每次提交需要重复输入邮箱
+
+```
+git config --global credential.helper store
+```
+
+
+
 
 
 
